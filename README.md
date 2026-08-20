@@ -121,7 +121,7 @@ The project was developed using the following data analytics workflow:
 
 # Dashboard Preview
 
-![HR Analytics Dashboard](HR%20Analytics.png)
+![HR Analytics Dashboard](![HR Analytics Dashboard](Screenshots/Dashboard_Overview.png))
 
 ---
 
@@ -161,7 +161,11 @@ This project demonstrates practical skills in:
 |------|-------------|
 | `HR Analytics 2.pbix` | Power BI dashboard project |
 | `HRDataset_v14 (1).xlsx` | HR dataset |
-| `HR Analytics.png` | Dashboard preview |
+| `# Dashboard Preview
+
+![HR Analytics Dashboard](Screenshots/Dashboard_Overview.png)
+
+![HR Analytics Analysis](Screenshots/Dashboard_Analysis.png)' | Dashboard preview |
 
 ---
 
