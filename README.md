@@ -165,7 +165,8 @@ This project demonstrates practical skills in:
 
 ![HR Analytics Dashboard](Screenshots/Dashboard_Overview.png)
 
-![HR Analytics Analysis](Screenshots/Dashboard_Analysis.png)' | Dashboard preview |
+![HR Analytics Analysis](Screenshots/Dashboard_Analysis.png)
+![Dashboard Details](Screenshots/Dashboard_Details.png)'| Dashboard preview |
 
 ---
 
